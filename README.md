@@ -31,11 +31,11 @@ blockquote (citação em bloco)
 
 font (tag obsoleta para controle de fonte)
 
-📂 Estrutura do Projeto
-O projeto é composto por um único arquivo HTML, index.html, que serve como a página principal.
+## 📂 Estrutura do Projeto
+## O projeto é composto por um único arquivo HTML, index.html, que serve como a página principal.
 
-💡 Como Usar
-Basta abrir o arquivo index.html em qualquer navegador web para visualizar o resultado. Não há a necessidade de instalar nenhuma dependência ou servidor.
+## 💡 Como Usar
+## Basta abrir o arquivo index.html em qualquer navegador web para visualizar o resultado. Não há a necessidade de instalar nenhuma dependência ou servidor.
 
-📝 Lições Aprendidas
-Este projeto serviu para reforçar o entendimento sobre a estrutura e a semântica do HTML. Explorar tags como <font> (obsoleta) também destaca a evolução da web e a importância de usar CSS para estilização, mantendo a responsabilidade de cada tecnologia clara.
+## 📝 Lições Aprendidas
+## Este projeto serviu para reforçar o entendimento sobre a estrutura e a semântica do HTML. Explorar tags como <font> (obsoleta) também destaca a evolução da web e a importância de usar CSS para estilização, mantendo a responsabilidade de cada tecnologia clara.
