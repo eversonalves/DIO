@@ -25,7 +25,7 @@ abbr (abreviação)
 
 a (links)
 
-ol (lista ordenada) e <li> (itens de lista)
+ol (lista ordenada) e li (itens de lista)
 
 blockquote (citação em bloco)
 
