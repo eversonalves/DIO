@@ -1,35 +1,35 @@
 ## Este é um projeto simples que demonstra o uso de diversas tags HTML para estruturar e estilizar o conteúdo de uma página. O objetivo foi explorar o que é possível fazer usando apenas o HTML, sem recorrer a CSS ou JavaScript.
 
-🛠️ Tecnologias Utilizadas
-HTML: A única linguagem utilizada neste projeto. As seguintes tags foram exploradas:
+🛠️ ## Tecnologias Utilizadas
+## HTML: A única linguagem utilizada neste projeto. As seguintes tags foram exploradas:
 
-*<h1> até <h6>* (títulos de diferentes níveis)
+h1 até h6 (títulos de diferentes níveis)
 
-<p> (parágrafos)
+p (parágrafos)
 
-<hr> (linha horizontal)
+hr (linha horizontal)
 
-<br> (quebra de linha)
+br (quebra de linha)
 
-<i> (texto em itálico)
+i (texto em itálico)
 
-<u> (texto sublinhado)
+u (texto sublinhado)
 
-<del> (texto deletado/riscado)
+del (texto deletado/riscado)
 
-<mark> (texto marcado/destacado)
+mark (texto marcado/destacado)
 
-<sup> (sobrescrito) e <sub> (subscrito)
+sup (sobrescrito) e sub (subscrito)
 
-<abbr> (abreviação)
+abbr (abreviação)
 
-<a> (links)
+a (links)
 
-<ol> (lista ordenada) e <li> (itens de lista)
+ol (lista ordenada) e <li> (itens de lista)
 
-<blockquote> (citação em bloco)
+blockquote (citação em bloco)
 
-<font> (tag obsoleta para controle de fonte)
+font (tag obsoleta para controle de fonte)
 
 📂 Estrutura do Projeto
 O projeto é composto por um único arquivo HTML, index.html, que serve como a página principal.
