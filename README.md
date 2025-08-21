@@ -1,6 +1,6 @@
 ## Este é um projeto simples que demonstra o uso de diversas tags HTML para estruturar e estilizar o conteúdo de uma página. O objetivo foi explorar o que é possível fazer usando apenas o HTML, sem recorrer a CSS ou JavaScript.
 
-🛠️ ## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 ## HTML: A única linguagem utilizada neste projeto. As seguintes tags foram exploradas:
 
 h1 até h6 (títulos de diferentes níveis)
